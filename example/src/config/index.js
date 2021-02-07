@@ -1,0 +1,5 @@
+export const AUTH_STATUS = {
+  NONE: 'NONE',
+  INITIAL: 'INITIAL',
+  AUTHORIZED: 'AUTHORIZED',
+};
