@@ -1,7 +1,7 @@
 {
-  "name": "react-native-auth-hook",
+  "name": "react-native-auth-context",
   "version": "1.0.0",
-  "description": "A hook to handle your app authentication stuff ",
+  "description": "A context to handle your app authentication stuff ",
   "main": "dist/index.js",
   "scripts": {
     "build:start": "tsc",
@@ -15,6 +15,7 @@
   },
   "keywords": [
     "react-native",
+    "context",
     "hook",
     "auth"
   ],
